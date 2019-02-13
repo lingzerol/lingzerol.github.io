@@ -1,5 +1,5 @@
 <table align="left">
-<th>
+<th align="left">
 履历
 ====
 > <img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/photo/face%20photo.jpg" width="100" height="140"/><br/>
@@ -30,7 +30,7 @@
 
 </th>
 
-<th>
+<th align="left">
 
 兴趣
 ----
