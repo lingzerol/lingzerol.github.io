@@ -1,6 +1,6 @@
 履历
 ====
-> <img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/photo/face%20photo.jpg" width="80" height="160"/><br/>
+> <img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/photo/face%20photo.jpg" width="80" height="140"/><br/>
 > 林凯通<br/>
 > 求职意向：后台开发工程师 (C/C++ 方向)和人工智能<br/>
 > 联系方式：15914228765<br/>
@@ -53,7 +53,5 @@
 
 证书
 ----
-  >软件设计师:<br/>
-  ><img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.png" width="500" height="300" alt="software designed"/><br/>
-  >第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖证书<br/>
-  ><img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/Bronze%20Medal%20of%20The%202018%20ACM-ICPC%20Asia%20Regional%20Contest%20%20Jiaozuo%20Site%202018.PNG" width="500" height="300"/><br/>
+  >[软件设计师](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.png)<br/>
+  >[第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖证书](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/Bronze%20Medal%20of%20The%202018%20ACM-ICPC%20Asia%20Regional%20Contest%20%20Jiaozuo%20Site%202018.PNG)<br/>
