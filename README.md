@@ -1,5 +1,6 @@
 履历
 ====
+> ![](https://github.com/lingzerol/lingzerol.github.io/tree/master/photo)
 > 林凯通<br/>
 > 求职意向：后台开发工程师 (C/C++ 方向)和人工智能<br/>
 > 联系方式：15914228765<br/>
@@ -45,12 +46,14 @@
 
 项目
 ----
-  >Daygram_study(https://github.com/lingzerol/Daygram_study):模仿DAYGRAM日志APP<br/>
-  >Image_segmentation(https://github.com/lingzerol/Imgae_seqgmentation):基于超像素变形算法的图像区域划分<br/>
-  >Cube(https://github.com/lingzerol/Cube):魔方还原兼显示程序<br/>
-  >Image_interctive_segment(https://github.com/lingzerol/Image_interactive_segment):交互式图像分割程序(正在完成)<br/>
+  >[Daygram_study](https://github.com/lingzerol/Daygram_study):模仿DAYGRAM日志APP<br/>
+  >[Image_segmentation](https://github.com/lingzerol/Imgae_seqgmentation):基于超像素变形算法的图像区域划分<br/>
+  >[Cube](https://github.com/lingzerol/Cube):魔方还原兼显示程序<br/>
+  >[Image_interctive_segment](https://github.com/lingzerol/Image_interactive_segment):交互式图像分割程序(正在完成)<br/>
 
 证书
 ----
-  >软件设计师<br/>
+  >软件设计师:<br/>
+  >![software designer](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.jpg)
   >第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖证书<br/>
+  >![Bronze Medal of The 2018 ACM-ICPC Asia Regional Contest  Jiaozuo Site 2018](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/Bronze%20Medal%20of%20The%202018%20ACM-ICPC%20Asia%20Regional%20Contest%20%20Jiaozuo%20Site%202018.PNG)
