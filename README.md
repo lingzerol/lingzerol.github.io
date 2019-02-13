@@ -1,3 +1,10 @@
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
 履历
 ====
 > <img src="https://raw.githubusercontent.com/lingzerol/lingzerol.github.io/master/photo/face%20photo.jpg" width="100" height="140"/><br/>
