@@ -11,15 +11,16 @@
 
 技能
 ----
-  >##熟悉<br/>
+  >了解<br/>
    >>* c++
    >>* c     
    >>* java     
    >>* php     
    >>* 线段树，红黑树，后缀数组，ac自动机，KMP算法等
 
-  >##了解<br/>
+  >曾学习<br/>
    >>* python2，3
+   >>* matlab
    >>* 对单层和双层的神经网络有初步的认识    
    >>* 对分类和逻辑回归有初步的认识，懂得使用梯度下降法最小化成本    
    >>* 能简单的构造一个神经节点，对图片进行分类  
@@ -38,5 +39,18 @@
   >与2016下半年考计算机软件与技术中的软件设计师，并与2017上半年取得证书<br/>
   >在大二上学期提前修的计算机网络<br/>
   >在大一大二时期，阅读算法导论学习各类算法<br/>
-  >在大二时期，曾参加过的深度学习的视频学习和阅读过机器学习的有关书籍<br/>   
+  >在大二时期，曾参加过的深度学习的视频学习和阅读过机器学习的有关书籍<br/>
   >获得第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖<br/>
+  >2019年1月25-29日参加美赛(成绩尚且未出)<br/>
+
+项目
+----
+  >Daygram_study(https://github.com/lingzerol/Daygram_study):模仿DAYGRAM日志APP<br/>
+  >Image_segmentation(https://github.com/lingzerol/Imgae_seqgmentation):基于超像素变形算法的图像区域划分<br/>
+  >Cube(https://github.com/lingzerol/Cube):魔方还原兼显示程序<br/>
+  >Image_interctive_segment(https://github.com/lingzerol/Image_interactive_segment):交互式图像分割程序(正在完成)<br/>
+
+证书
+----
+  >软件设计师<br/>
+  >第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖证书<br/>
