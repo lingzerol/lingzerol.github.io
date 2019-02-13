@@ -1,6 +1,6 @@
 履历
 ====
-> <img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/photo/face%20photo.jpg" width="100" height="140"/><br/>
+> <img src="https://raw.githubusercontent.com/lingzerol/lingzerol.github.io/master/photo/face%20photo.jpg" width="100" height="140"/><br/>
 > 林凯通<br/>
 > 求职意向：后台开发工程师 (C/C++ 方向)和人工智能<br/>
 > 联系方式：15914228765<br/>
