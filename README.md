@@ -1,6 +1,3 @@
-<table align="left">
-<th align="left">
-
 履历
 ====
 > <img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/photo/face%20photo.jpg" width="100" height="140"/><br/>
@@ -28,10 +25,6 @@
    >>* 对单层和双层的神经网络有初步的认识    
    >>* 对分类和逻辑回归有初步的认识，懂得使用梯度下降法最小化成本    
    >>* 能简单的构造一个神经节点，对图片进行分类  
-
-</th>
-
-<th align="left">
 
 兴趣
 ----
@@ -62,6 +55,3 @@
 ----
   >[软件设计师](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.png)<br/>
   >[第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖证书](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/Bronze%20Medal%20of%20The%202018%20ACM-ICPC%20Asia%20Regional%20Contest%20%20Jiaozuo%20Site%202018.PNG)<br/>
-
-</th>
-</table>
