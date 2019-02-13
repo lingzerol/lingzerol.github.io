@@ -54,6 +54,6 @@
 证书
 ----
   >软件设计师:<br/>
-  >![software designer](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.png)
+  ><img src="https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.png" width="500" height="700" alt="software designed">
   >第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖证书<br/>
   >![Bronze Medal of The 2018 ACM-ICPC Asia Regional Contest  Jiaozuo Site 2018](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/Bronze%20Medal%20of%20The%202018%20ACM-ICPC%20Asia%20Regional%20Contest%20%20Jiaozuo%20Site%202018.PNG)
