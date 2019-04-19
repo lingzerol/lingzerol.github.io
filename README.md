@@ -53,6 +53,6 @@
 
 证书
 ----
-  >[软件设计师](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.png)<br/>
+  >[计算机技术与软件专业技术资格(水平)考试的中级资格证书 软件设计师](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/software%20designer.png)<br/>
   >[第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）铜奖证书](https://github.com/lingzerol/lingzerol.github.io/blob/master/certificate/Bronze%20Medal%20of%20The%202018%20ACM-ICPC%20Asia%20Regional%20Contest%20%20Jiaozuo%20Site%202018.PNG)<br/>
   >[2019年美国大学生数学建模竞赛荣誉奖](https://raw.githubusercontent.com/lingzerol/lingzerol.github.io/da8dd1258056f97c323e9d1e0ddc0fc36eea767e/certificate/2019Mathematical%20Contest%20In%20Modeling.pdf)<br/>
